@@ -11,53 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, Leibniz Institute for Astrophysics Potsdam (expected)
+* M.Sc. in Astrophysics and Cosmology, Observation and Experimentation Track; University of Padova 2025
+* B.S. in Physics with Dual Major in Russian; University of New Hampshire 2023
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Graduate Student, 2024-2026
+* GALFOR Group, University of Padova
+* Supervisor: Prof. Antonino Milone
+Analyzed HST imagery of NGC 2158. Co-I on JWST Cycle 4 GO 8960. Marchuk et al. 2026 on NGC 2158 binaries, mass functions, M-dwarf discontinuity.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Graduate Research Assistant, 2023-2026
+* Space Science Center, University of New Hampshire
+* Supervisor: Dr. Charles Smith
+Analysis of unusual high frequency events in magnetic field data from Ulysses.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Undergraduate Student Researcher, 2018-2023
+* Space Science Center, University of New Hampshire
+* Supervisor: Dr. Charles Smith
+Developed and maintained a database of waves excited by interstellar pickup ions from Ulysses data – Marchuk et. al (2021). Built and deployed fluxgate magnetometers and wrote documentation for their construction.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data reduction and analysis
+  * High precision astrometry, photometry, stellar motions (procedures by J Anderson et al.), photometric analysis in crowded regions
+  * HST, GAIA, JWST, Euclid data analysis
+  * Spectrogram, power spectrum, magnetic field data
+* Working with large datasets
+  * Ulysses He+ wave event database collected from 20 years of daily spectrograms
+  * Photometric data from HST can contain thousands of stars
+* Editing scientific writing for structure, grammar, clarity
+* Science communication to the public
+* Python, MATLAB, LaTeX; basic SuperMongo and FORTRAN
+* SAOImageDS9, CASA, Linux OS, Git/GitHub, bash commands, ssh
+* Basic machine learning, applied to exoplanet detection & atmospheric analysis
+* English (native), Russian (B2-C1)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
