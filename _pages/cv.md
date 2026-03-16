@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astrophysics, Leibniz Institute for Astrophysics Potsdam (expected)
+* Ph.D in Astrophysics, Leibniz Institute for Astrophysics Potsdam (in progress)
 * M.Sc. in Astrophysics and Cosmology, Observation and Experimentation Track; University of Padova 2025
 * B.S. in Physics with Dual Major in Russian; University of New Hampshire 2023
 
 Experience
 ======
+PhD Student, 2026-present
+* Chronicling the Clouds project, Leibniz Institute for Astrophysics Potsdam
+* Supervisor: Dr. Lara Cullinane
+Chemodynamic characterization of halo stars in the Large Magellanic Cloud. Investigating halo formation channels, and studying the dynamical history and evolution of the LMC.
+
 Graduate Student, 2024-2026
 * GALFOR Group, University of Padova
 * Supervisor: Prof. Antonino Milone
@@ -55,6 +60,4 @@ Publications
   {% endfor %}</ul>
 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
